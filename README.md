@@ -75,6 +75,12 @@ Os dados devem cumprir os seguintes requisitos:
 
 Para que uma análise de dados possa ser feita corretamente, é necessário que o conjunto de dados esteja em sintonia perfeita com todos esses requisitos, dessa forma, podemos minimizar a chance de conclusões precipitadas e _insights_ incorretos. 
 
+Verificando a existência de valores nulos:
 
+```python
+dataset.isnull().sum() # (1)
+```
 
-  
+Resultado (1): 
+
+![image](https://github.com/user-attachments/assets/c9f0a8f5-47fa-47e1-8160-4947573f5993)
