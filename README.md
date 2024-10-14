@@ -93,6 +93,9 @@ Verificando os dados:
 srn.barplot(dataset['Gênero']).set_title = 'Gênero' #(5)
 srn.barplot(dataset['Cidade']).set_title = 'Cidade' #(6)
 srn.barplot(dataset['LinhaProduto']).set_title = 'Setor de produtos' #(7)
+#8
+#9
+#10
 
 ```
 
@@ -108,6 +111,14 @@ Resultado (7), note que as linhas não estão traduzidas:
 
 ![image](https://github.com/user-attachments/assets/b0cd8fca-987a-4e44-a156-3a529c24b2b8)
 
+Resultado (8):
 
+![image](https://github.com/user-attachments/assets/77b033e6-e23d-4a1d-bf6b-a566c62f8152)
 
+Resultado (9):
 
+![image](https://github.com/user-attachments/assets/925b15c1-d731-43f7-a11d-d0414699d591)
+
+Resultado (10):
+
+![image](https://github.com/user-attachments/assets/f6837fa1-1e56-4819-bdd3-be796f1076cc)
