@@ -63,6 +63,17 @@ Resultado (3):
 
 ![image](https://github.com/user-attachments/assets/cf672fd0-ee58-42c5-bfc4-2d4afcdbb1e4)
 
+## Verificando se os dados estão seguindo todos os requisitos necessários
+
+Os dados devem cumprir os seguintes requisitos:
+
+- Duplicidade
+- Consistência
+- Completude
+- Conformidade
+- Integridade
+
+Para que uma análise de dados possa ser feita corretamente, é necessário que o conjunto de dados esteja em sintonia perfeita com todos esses requisitos, dessa forma, podemos minimizar a chance de conclusões precipitadas e _insights_ incorretos. 
 
 
 
