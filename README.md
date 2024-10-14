@@ -4,7 +4,7 @@ Estado original do Dataset:
 
 ## Renomeação das colunas do dataset
 
-O dataset original continha nomeadas em inglês, para facilitar a visualização, segue a tradução e descrição de todas as colunas:
+O dataset original continha as colunas nomeadas em inglês, para facilitar a visualização, segue a tradução e descrição de todas as colunas:
 
 | Nome Original             | Nome Atual                | Descrição                                       |
 |---------------------------|---------------------------|-------------------------------------------------|
