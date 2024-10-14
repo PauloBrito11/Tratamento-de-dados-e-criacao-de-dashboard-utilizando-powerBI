@@ -1,6 +1,6 @@
 # Tratamento de dados em Python e criação de Dashboard utilizando PoweBI
 
-Estado original do Dataset:
+Origem do Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
 ## Renomeação das colunas do dataset
 
@@ -59,7 +59,7 @@ Resultado (2):
 
 ![image](https://github.com/user-attachments/assets/290fdb32-77a6-4ce1-bfa2-5679b6d42805)
 
-Resultado(3):
+Resultado (3):
 
 ![image](https://github.com/user-attachments/assets/cf672fd0-ee58-42c5-bfc4-2d4afcdbb1e4)
 
