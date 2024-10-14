@@ -47,8 +47,11 @@ Funções utilizadas:
 
 ```python
 dataset.head() # demonstra os dados nas posições iniciais (1)
+
 dataset.tail() # demonstra os dados nas posições finais (2)
+
 dataset.sample() # seleciona posições aleatórias e demonstra os dados (3)
+
 ```
 
 Resultado (1):
@@ -90,12 +93,18 @@ Verificando os dados:
 ```python
 
 #as funções abaixo são responsáveis pela criação dos gráficos que facilitam a visualização do conjunto de dados
+
 srn.barplot(dataset['Gênero']).set_title = 'Gênero' #(5)
+
 srn.barplot(dataset['Cidade']).set_title = 'Cidade' #(6)
+
 srn.barplot(dataset['LinhaProduto']).set_title = 'Setor de produtos' #(7)
-#8
-#9
-#10
+
+srn.barplot(dataset['Filial']).set_title = 'Filial' #(8)
+
+srn.barplot(dataset['MetodoPagamento']).set_title = 'Método de Pagamento' #(9)
+
+srn.barplot(dataset['TipoCliente']).set_title = 'TipoCliente'#(10)
 
 ```
 
