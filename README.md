@@ -1,4 +1,4 @@
-# Tratamento de dados em Python e criação de Dashboard utilizando PoweBI
+# Tratamento de dados em Python e criação de Dashboard utilizando PowerBI
 
 Origem do Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
