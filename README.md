@@ -53,9 +53,16 @@ dataset.sample() # seleciona posições aleatórias e demonstra os dados (3)
 
 Resultado (1):
 
+![image](https://github.com/user-attachments/assets/ccac7ac1-6d1d-4182-bd26-0920b3a59672)
+
 Resultado (2):
 
+![image](https://github.com/user-attachments/assets/290fdb32-77a6-4ce1-bfa2-5679b6d42805)
+
 Resultado(3):
+
+![image](https://github.com/user-attachments/assets/cf672fd0-ee58-42c5-bfc4-2d4afcdbb1e4)
+
 
 
 
