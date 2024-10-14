@@ -78,9 +78,36 @@ Para que uma análise de dados possa ser feita corretamente, é necessário que 
 Verificando a existência de valores nulos:
 
 ```python
-dataset.isnull().sum() # (1)
+dataset.isnull().sum() # (4)
 ```
 
-Resultado (1): 
+Resultado (4): 
 
 ![image](https://github.com/user-attachments/assets/c9f0a8f5-47fa-47e1-8160-4947573f5993)
+
+Verificando os dados:
+
+```python
+
+#as funções abaixo são responsáveis pela criação dos gráficos que facilitam a visualização do conjunto de dados
+srn.barplot(dataset['Gênero']).set_title = 'Gênero' #(5)
+srn.barplot(dataset['Cidade']).set_title = 'Cidade' #(6)
+srn.barplot(dataset['LinhaProduto']).set_title = 'Setor de produtos' #(7)
+
+```
+
+Resultados (5):
+
+![image](https://github.com/user-attachments/assets/85858fe4-5390-4b52-b223-3012c720b1fc)
+
+Resultado (6):
+
+![image](https://github.com/user-attachments/assets/6543384c-d47b-4022-9318-f4cc255ba43d)
+
+Resultado (7), note que as linhas não estão traduzidas:
+
+![image](https://github.com/user-attachments/assets/b0cd8fca-987a-4e44-a156-3a529c24b2b8)
+
+
+
+
