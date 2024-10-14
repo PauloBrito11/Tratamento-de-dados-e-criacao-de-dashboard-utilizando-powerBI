@@ -96,7 +96,7 @@ srn.barplot(dataset['LinhaProduto']).set_title = 'Setor de produtos' #(7)
 
 ```
 
-Resultados (5):
+Resultado (5):
 
 ![image](https://github.com/user-attachments/assets/85858fe4-5390-4b52-b223-3012c720b1fc)
 
