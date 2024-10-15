@@ -317,6 +317,26 @@ dataset['HoraTransacao'].describe() #(26)
 
 ```
 
+Além disso, também verificaremos as colunas graficamente, pois isso permite que, além da "interpretação númerica", também possamos ter a "interpretação visual", os gráficos, seguem os seguintes padrões:
+
+```python
+
+#Para os gráficos relacionados a datas
+
+datas_agrupadas = dataset['DataTransacao'].value_counts()
+fig = px.bar(x=datas_agrupadas.index, y=datas_agrupadas.values)
+fig.show()
+
+#Para os demais gráficos: 
+
+srn./tipo de grafico/(conjunto de dados/,discrete = true).set_title('/seu titulo')
+
+#Exemplo:
+
+srn.histplot(dataset['Avaliacao'], discrete = True).set_title('Contagem de avaliações')
+
+```
+
 ---
 
 Resultado (17) [IdVenda]:
@@ -399,13 +419,4 @@ A coluna está com os dados em perfeito estado
 
 ---
 
-#### Visualizando as colunas númericas graficamente
-
-O "describe" consegue fornecer uma boa noção sobre os dados, mas uma verificação gráfica permite uma interpretação visual mais facilitada
-
-```python
-#abaixo estão os códigos dos gráficos:
-
-
-```
 ## Criação do Dashboard em PowerBI
