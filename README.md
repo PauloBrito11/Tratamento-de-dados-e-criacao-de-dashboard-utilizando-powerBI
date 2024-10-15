@@ -48,7 +48,7 @@ Codigo utilizado para renomear as colunas no dataset:
 
 ```python
 
-#utilizamos uma função para renomar as colunas com base na ordem do dataset original, portanto, a ordem não foi alterada
+#utilizamos uma função para renomear as colunas com base na ordem do dataset original, portanto, a ordem não foi alterada
 
 dataset.columns = [
     'IdVenda', 'Filial', 'Cidade', 'TipoCliente', 'Gênero',
@@ -145,7 +145,7 @@ Resultado (6):
 
 ![image](https://github.com/user-attachments/assets/6543384c-d47b-4022-9318-f4cc255ba43d)
 
-Resultado (7), note que as linhas não estão traduzidas:
+Resultado (7):
 
 ![image](https://github.com/user-attachments/assets/b0cd8fca-987a-4e44-a156-3a529c24b2b8)
 
@@ -389,7 +389,6 @@ Resultado (25) [DataTransacao]:
 ![image](https://github.com/user-attachments/assets/2751014d-d445-4dfe-b5c1-dd0b86ebaa79)
 
 A coluna está com os dados em perfeito estado
-
 ---
 
 Resultado (26) [HoraTransacao]:
@@ -400,4 +399,13 @@ A coluna está com os dados em perfeito estado
 
 ---
 
+#### Visualizando as colunas númericas graficamente
+
+O "describe" consegue fornecer uma boa noção sobre os dados, mas uma verificação gráfica permite uma interpretação visual mais facilitada
+
+```python
+#abaixo estão os códigos dos gráficos:
+
+
+```
 ## Criação do Dashboard em PowerBI
