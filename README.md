@@ -99,6 +99,8 @@ Colunas categóricas existentes:
 - Método de pagamento
 - Tipo de cliente
 
+#### Criando gráficos para a visualização das colunas categóricas
+
 ```python
 
 #as funções abaixo são responsáveis pela criação dos gráficos que facilitam a visualização do conjunto de dados
@@ -141,6 +143,8 @@ Resultado (10):
 
 ![image](https://github.com/user-attachments/assets/f6837fa1-1e56-4819-bdd3-be796f1076cc)
 
+#### Criando agrupamentos
+
 Sabendo que possuímos mil linhas, a soma da quantidade de dados de cada categoria deve ser igual a 1000, visto que cada linha pode conter apenas uma categória do número total de categórias, por exemplo, a coluna de cidades não pode conter duas cidades ao mesmo tempo.
 
 ```python
@@ -171,7 +175,7 @@ agrupado6 = dataset.groupby(dataset['TipoCliente']).size() #(16)
 
 ```
 
-Agora basta chamarmos as variáveis e verificarmos os "agrupamentos" um de cada vez, resultando em:
+#### Verificando os agrupamentos individualmente:
 
 Resultado (11):
 
