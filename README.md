@@ -188,3 +188,58 @@ Resultado (16):
 
 ![image](https://github.com/user-attachments/assets/65f590a6-c287-4cc8-9521-7667f983c0d8)
 
+### Conferindo os resultados e realizando as somas:
+---
+
+| Gênero        | Total |
+|-----------------|-------|
+| Feminino        | 501   |
+| Masculino       | 499   |
+| ***Gênero Total*** | ***1000*** |
+
+---
+
+| Cidade    | Total |
+|-----------|-------|
+| Mandalay  | 332   |
+| Naypyitaw | 328   |
+| Yangon    | 340   |
+| **Total**  | 1000   |
+
+---
+
+| Produto             | Total |
+|---------------------|-------|
+| Eletrônicos         | 170   |
+| Moda               | 178   |
+| Alimentos           | 174   |
+| Saúde               | 152   |
+| Casa                | 160   |
+| Esportes            | 166   |
+| **Total**            | 1000   |
+
+---
+
+| Filial | Total |
+|-------|-------|
+| A     | 340   |
+| B     | 332   |
+| C     | 328   |
+| **Total** | 1000   |
+
+---
+
+| Método de Pagamento | Total |
+|---------------------|-------|
+| Cash                | 344   |
+| Credit card         | 311   |
+| Ewallet              | 345   |
+| **Total**            | 1000   |
+
+---
+
+| Tipo de Cliente | Total |
+|----------------|-------|
+| Member          | 501   |
+| Normal          | 499   |
+| **Total**        | 1000   |
