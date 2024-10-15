@@ -6,6 +6,15 @@ O objetivo é tratar um conjunto de dados selecionado aleatoriamente (sem conhec
 
 - #### Origem do Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
+- Bibliotecas:
+```python
+import pandas as pd
+import seaborn as srn
+import statistics as sts
+import matplotlib.pyplot as plt
+```
+  
+
 - #### Abaixo, uma tabela contendo o significado de termos utilizados com frequência
 
 | Termo | Significado |
