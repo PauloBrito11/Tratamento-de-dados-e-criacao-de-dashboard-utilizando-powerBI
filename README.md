@@ -377,6 +377,9 @@ Graficamente:
 
 ![image](https://github.com/user-attachments/assets/f85e1473-8756-4420-805b-105abcb45d27)
 
+![image](https://github.com/user-attachments/assets/1cad1a97-b47b-4c29-95ee-ee1744f267ab)
+
+
 A coluna está com os dados em perfeito estado
 
 --- 
