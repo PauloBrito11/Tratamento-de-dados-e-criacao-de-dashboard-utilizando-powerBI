@@ -271,3 +271,70 @@ Colunas númericas existentes:
 - Percentual de margem bruta
 - Renda bruta
 - Avaliação
+- Data da transação
+- Hora da transação
+
+As colunas númericas também precisam estar em alinhamento com os requisitos para a realização da análise de dados, podemos utilizar o comando "**describe**" para resumirmos cada coluna e identificar possíveis problemas:
+
+```python
+dataset['IdVenda'].describe() #(17)
+
+dataset['PrecoUnitario'].describe() #(18)
+
+dataset['Imposto5Porcento'].describe() #(19)
+
+dataset['Quantidade'].describe() #(20)
+
+dataset['CustoMercadoriasVendidas'].describe() #(21)
+
+dataset['PercentualMargemBruta'].describe() #(22)
+
+dataset['RendaBruta'].describe() #(23)
+
+dataset['Avaliacao'].describe() #(24)
+
+dataset['DataTransacao'].describe() #(25)
+
+dataset['HoraTransacao'].describe() #(26)
+
+```
+
+Resultado (17):
+
+![image](https://github.com/user-attachments/assets/040e01c5-daa5-4313-840e-8ff3c28f8cdd)
+
+Resultado (18):
+
+![image](https://github.com/user-attachments/assets/01aba312-a88a-4118-8c7d-d8d5a3a7de17)
+
+Resultado (19):
+
+![image](https://github.com/user-attachments/assets/457b3beb-3c9c-47f9-a048-47a31f1aaaed)
+
+Resultado (20):
+
+![image](https://github.com/user-attachments/assets/a5d14c91-912f-4a6b-bce5-0e15b39f7a37)
+
+Resultado (21):
+
+![image](https://github.com/user-attachments/assets/b425cc10-1d1b-4932-ae03-ffc43590f546)
+
+Resultado (22):
+
+![image](https://github.com/user-attachments/assets/1c38b0a3-e3ca-48bd-9697-75b4980d118c)
+
+Resultado (23):
+
+![image](https://github.com/user-attachments/assets/49dd0c8a-1549-472a-a20a-0c2ae334e439)
+
+Resultado (24):
+
+![image](https://github.com/user-attachments/assets/2fb58a72-3f53-405a-9d48-6d9436ddb8e3)
+
+Resultado (25):
+
+![image](https://github.com/user-attachments/assets/2751014d-d445-4dfe-b5c1-dd0b86ebaa79)
+
+Resultado (26):
+
+![image](https://github.com/user-attachments/assets/9ea4a755-7e94-4c95-ac41-7e3325021277)
