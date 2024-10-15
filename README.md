@@ -399,3 +399,5 @@ Resultado (26) [HoraTransacao]:
 A coluna está com os dados em perfeito estado
 
 ---
+
+## Criação do Dashboard em PowerBI
