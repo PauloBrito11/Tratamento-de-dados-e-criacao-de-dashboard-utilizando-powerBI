@@ -466,4 +466,8 @@ Graficamente:
 
 ![image](https://github.com/user-attachments/assets/92f34092-964e-4fc5-b4c5-d9bb34a4ddd1)
 
+A coluna está com o gráfico em perfeito estado
+
 ## Criação do Dashboard em PowerBI
+
+
