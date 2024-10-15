@@ -327,7 +327,7 @@ A coluna está com os dados em perfeito estado
 
 ---
 
-Resultado (18):
+Resultado (18) [PrecoUnitario]:
 
 ![image](https://github.com/user-attachments/assets/01aba312-a88a-4118-8c7d-d8d5a3a7de17)
 
@@ -335,7 +335,7 @@ A coluna está com os dados em perfeito estado
 
 ---
 
-Resultado (19):
+Resultado (19) [Imposto5Porcento]:
 
 ![image](https://github.com/user-attachments/assets/457b3beb-3c9c-47f9-a048-47a31f1aaaed)
 
@@ -343,7 +343,7 @@ A coluna está com os dados em perfeito estado
 
 --- 
 
-Resultado (20):
+Resultado (20) [Quantidade]:
 
 ![image](https://github.com/user-attachments/assets/a5d14c91-912f-4a6b-bce5-0e15b39f7a37)
 
@@ -351,7 +351,7 @@ A coluna está com os dados em perfeito estado
 
 ---
 
-Resultado (21):
+Resultado (21) [CustoMercadoriasVendidas]:
 
 ![image](https://github.com/user-attachments/assets/b425cc10-1d1b-4932-ae03-ffc43590f546)
 
@@ -359,7 +359,7 @@ A coluna está com os dados em perfeito estado
 
 ---
 
-Resultado (22):
+Resultado (22) [PercentualMargemBruta]:
 
 ![image](https://github.com/user-attachments/assets/1c38b0a3-e3ca-48bd-9697-75b4980d118c)
 
@@ -368,7 +368,7 @@ A coluna está com os dados em perfeito estado
 ---
 
 
-Resultado (23):
+Resultado (23) [RendaBruta]:
 
 ![image](https://github.com/user-attachments/assets/49dd0c8a-1549-472a-a20a-0c2ae334e439)
 
@@ -376,7 +376,7 @@ A coluna está com os dados em perfeito estado
 
 ---
 
-Resultado (24):
+Resultado (24) [Avaliacao]:
 
 ![image](https://github.com/user-attachments/assets/2fb58a72-3f53-405a-9d48-6d9436ddb8e3)
 
@@ -384,7 +384,7 @@ A coluna está com os dados em perfeito estado
 
 ---
 
-Resultado (25):
+Resultado (25) [DataTransacao]:
 
 ![image](https://github.com/user-attachments/assets/2751014d-d445-4dfe-b5c1-dd0b86ebaa79)
 
@@ -392,7 +392,7 @@ A coluna está com os dados em perfeito estado
 
 ---
 
-Resultado (26):
+Resultado (26) [HoraTransacao]:
 
 ![image](https://github.com/user-attachments/assets/9ea4a755-7e94-4c95-ac41-7e3325021277)
 
