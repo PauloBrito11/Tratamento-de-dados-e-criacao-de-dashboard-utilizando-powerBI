@@ -88,7 +88,7 @@ Resultado (4):
 
 ![image](https://github.com/user-attachments/assets/c9f0a8f5-47fa-47e1-8160-4947573f5993)
 
-Verificando os dados:
+Verificando os dados das colunas categoricas:
 
 ```python
 
@@ -131,3 +131,33 @@ Resultado (9):
 Resultado (10):
 
 ![image](https://github.com/user-attachments/assets/f6837fa1-1e56-4819-bdd3-be796f1076cc)
+
+Sabendo que possuímos mil linhas, a soma da quantidade de dados de cada categoria deve ser igual a 1000, visto que cada linha pode conter apenas uma categória do número total de categórias, por exemplo, a coluna de cidades não pode conter duas cidades ao mesmo tempo.
+
+```python
+
+#Agrupando a coluna de gêneros:
+
+agrupado1 = dataset.groupby(dataset['Gênero']).size() #(11)
+
+#Agrupando a coluna de cidades:
+
+agrupado2 = dataset.groupby(dataset['Cidade']).size() #(12)
+
+#Agrupando a coluna de linha de produtos:
+
+agrupado3 = dataset.groupby(dataset['LinhaProduto']).size() #(13)
+
+#Agrupando a coluna de filiais:
+
+agrupado4 = dataset.groupby(dataset['Filial']).size() #(14)
+
+#Agrupando a coluna de métodos de pagamento
+
+agrupado5 = dataset.groupby(dataset['MetodoPagamento']).size() #(15)
+
+#Agrupando a coluna de tipos de clientes
+
+agrupado6 = dataset.groupby(dataset['TipoCliente']).size() #(16)
+
+```
