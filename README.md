@@ -455,6 +455,7 @@ Graficamente:
 ![image](https://github.com/user-attachments/assets/cde4dfd9-51ce-4ce0-a7b8-7934efcf822f)
 
 A coluna está com os dados em perfeito estado
+
 ---
 
 Resultado (26) [HoraTransacao]:
@@ -464,7 +465,5 @@ Resultado (26) [HoraTransacao]:
 Graficamente:
 
 ![image](https://github.com/user-attachments/assets/92f34092-964e-4fc5-b4c5-d9bb34a4ddd1)
-
----
 
 ## Criação do Dashboard em PowerBI
