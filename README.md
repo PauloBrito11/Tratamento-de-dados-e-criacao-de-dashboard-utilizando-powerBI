@@ -1,6 +1,24 @@
 # Tratamento de dados em Python e criação de Dashboard utilizando PowerBI
 
-Origem do Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+O objetivo é tratar um conjunto de dados selecionado aleatoriamente (sem conhecimento prévio) e realizar o processo de tratamento de dados e criação de um Dashboard utilizando PowerBI
+
+## Informações relevantes
+
+- #### Origem do Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+
+- #### Abaixo, uma tabela contendo o significado de termos utilizados com frequência
+
+| Termo | Significado |
+|---|---|
+| Count | Contagem de observações (frequência) de um determinado valor ou conjunto de valores. |
+| Mean | Média aritmética: soma de todos os valores dividida pelo número total de valores. Representa o valor central de um conjunto de dados. |
+| Std | Desvio padrão: medida da dispersão dos dados em relação à média. Indica o quanto os valores individuais se afastam da média. |
+| Min | Valor mínimo: menor valor presente no conjunto de dados. |
+| 25% | Primeiro quartil (Q1): valor abaixo do qual 25% dos dados se encontram. |
+| 50% | Segundo quartil (Q2) ou mediana: valor que divide o conjunto de dados em duas partes iguais. |
+| 75% | Terceiro quartil (Q3): valor abaixo do qual 75% dos dados se encontram. |
+| Max | Valor máximo: maior valor presente no conjunto de dados. |
+| Dataset | Refere-se a um conjunto de dados. |
 
 ## Renomeação das colunas do dataset
 
@@ -26,7 +44,7 @@ O dataset original continha as colunas nomeadas em inglês, para facilitar a vis
 | `GrossIncome`             | `RendaBruta`              | Lucro bruto da venda                            |
 | `Rating`                  | `Avaliacao`               | Avaliação do cliente em relação à experiência   |
 
-Codigo utilizado:
+Codigo utilizado para renomear as colunas no dataset:
 
 ```python
 
