@@ -373,6 +373,10 @@ Resultado (19) [Imposto5Porcento]:
 
 ![image](https://github.com/user-attachments/assets/457b3beb-3c9c-47f9-a048-47a31f1aaaed)
 
+Graficamente:
+
+![image](https://github.com/user-attachments/assets/f85e1473-8756-4420-805b-105abcb45d27)
+
 A coluna está com os dados em perfeito estado
 
 --- 
