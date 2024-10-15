@@ -317,42 +317,85 @@ dataset['HoraTransacao'].describe() #(26)
 
 ```
 
-Resultado (17):
+---
+
+Resultado (17) [IdVenda]:
 
 ![image](https://github.com/user-attachments/assets/040e01c5-daa5-4313-840e-8ff3c28f8cdd)
+
+A coluna está com os dados em perfeito estado
+
+---
 
 Resultado (18):
 
 ![image](https://github.com/user-attachments/assets/01aba312-a88a-4118-8c7d-d8d5a3a7de17)
 
+A coluna está com os dados em perfeito estado
+
+---
+
 Resultado (19):
 
 ![image](https://github.com/user-attachments/assets/457b3beb-3c9c-47f9-a048-47a31f1aaaed)
+
+A coluna está com os dados em perfeito estado
+
+--- 
 
 Resultado (20):
 
 ![image](https://github.com/user-attachments/assets/a5d14c91-912f-4a6b-bce5-0e15b39f7a37)
 
+A coluna está com os dados em perfeito estado
+
+---
+
 Resultado (21):
 
 ![image](https://github.com/user-attachments/assets/b425cc10-1d1b-4932-ae03-ffc43590f546)
+
+A coluna está com os dados em perfeito estado
+
+---
 
 Resultado (22):
 
 ![image](https://github.com/user-attachments/assets/1c38b0a3-e3ca-48bd-9697-75b4980d118c)
 
+A coluna está com os dados em perfeito estado
+
+---
+
+
 Resultado (23):
 
 ![image](https://github.com/user-attachments/assets/49dd0c8a-1549-472a-a20a-0c2ae334e439)
+
+A coluna está com os dados em perfeito estado
+
+---
 
 Resultado (24):
 
 ![image](https://github.com/user-attachments/assets/2fb58a72-3f53-405a-9d48-6d9436ddb8e3)
 
+A coluna está com os dados em perfeito estado
+
+---
+
 Resultado (25):
 
 ![image](https://github.com/user-attachments/assets/2751014d-d445-4dfe-b5c1-dd0b86ebaa79)
 
+A coluna está com os dados em perfeito estado
+
+---
+
 Resultado (26):
 
 ![image](https://github.com/user-attachments/assets/9ea4a755-7e94-4c95-ac41-7e3325021277)
+
+A coluna está com os dados em perfeito estado
+
+---
