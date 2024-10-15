@@ -161,3 +161,30 @@ agrupado5 = dataset.groupby(dataset['MetodoPagamento']).size() #(15)
 agrupado6 = dataset.groupby(dataset['TipoCliente']).size() #(16)
 
 ```
+
+Agora basta chamarmos as variáveis e verificarmos os "agrupamentos" um de cada vez, resultando em:
+
+Resultado (11):
+
+![image](https://github.com/user-attachments/assets/5220ac66-e576-46a4-b379-0aa99039a644)
+
+Resultado (12):
+
+![image](https://github.com/user-attachments/assets/5ba5b301-3dbf-4e17-a46b-e2cc13645cd9)
+
+Resultado (13):
+
+![image](https://github.com/user-attachments/assets/807c4461-59b6-43fc-ab69-0e764ffe09f7)
+
+Resultado (14):
+
+![image](https://github.com/user-attachments/assets/658f741e-a7ae-45fa-b02f-5834c14369c0)
+
+Resultado (15):
+
+![image](https://github.com/user-attachments/assets/8c4a3586-059b-42c7-b7c4-34963156778c)
+
+Resultado (16):
+
+![image](https://github.com/user-attachments/assets/65f590a6-c287-4cc8-9521-7667f983c0d8)
+
