@@ -360,6 +360,11 @@ Resultado (18) [PrecoUnitario]:
 
 ![image](https://github.com/user-attachments/assets/01aba312-a88a-4118-8c7d-d8d5a3a7de17)
 
+Graficamente: 
+
+![image](https://github.com/user-attachments/assets/97bf6931-57d5-4b9c-808f-d205dc7cf22c)
+
+
 A coluna está com os dados em perfeito estado
 
 ---
@@ -376,6 +381,10 @@ Resultado (20) [Quantidade]:
 
 ![image](https://github.com/user-attachments/assets/a5d14c91-912f-4a6b-bce5-0e15b39f7a37)
 
+Graficamente:
+
+![image](https://github.com/user-attachments/assets/1135cdd1-e47c-4dd9-83ac-b21f3371ad32)
+
 A coluna está com os dados em perfeito estado
 
 ---
@@ -383,6 +392,11 @@ A coluna está com os dados em perfeito estado
 Resultado (21) [CustoMercadoriasVendidas]:
 
 ![image](https://github.com/user-attachments/assets/b425cc10-1d1b-4932-ae03-ffc43590f546)
+
+Graficamente:
+
+![image](https://github.com/user-attachments/assets/10775e89-2b63-4f95-b6f9-733ffc467bb1)
+
 
 A coluna está com os dados em perfeito estado
 
@@ -392,14 +406,21 @@ Resultado (22) [PercentualMargemBruta]:
 
 ![image](https://github.com/user-attachments/assets/1c38b0a3-e3ca-48bd-9697-75b4980d118c)
 
+Graficamente:
+
+![image](https://github.com/user-attachments/assets/faf911df-b42c-46ec-be6f-64c41d0d3961)
+
 A coluna está com os dados em perfeito estado
 
 ---
 
-
 Resultado (23) [RendaBruta]:
 
 ![image](https://github.com/user-attachments/assets/49dd0c8a-1549-472a-a20a-0c2ae334e439)
+
+Graficamente:
+
+![image](https://github.com/user-attachments/assets/4d2d3ea0-83d1-4ecf-84e6-06b485691f55)
 
 A coluna está com os dados em perfeito estado
 
@@ -411,11 +432,20 @@ Resultado (24) [Avaliacao]:
 
 A coluna está com os dados em perfeito estado
 
+Graficamente:
+
+![image](https://github.com/user-attachments/assets/4eaa6c93-0542-4cb8-b574-2b2dae98ffe1)
+
+
 ---
 
 Resultado (25) [DataTransacao]:
 
 ![image](https://github.com/user-attachments/assets/2751014d-d445-4dfe-b5c1-dd0b86ebaa79)
+
+Graficamente: 
+
+![image](https://github.com/user-attachments/assets/cde4dfd9-51ce-4ce0-a7b8-7934efcf822f)
 
 A coluna está com os dados em perfeito estado
 ---
