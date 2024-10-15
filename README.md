@@ -461,6 +461,10 @@ Resultado (26) [HoraTransacao]:
 
 ![image](https://github.com/user-attachments/assets/9ea4a755-7e94-4c95-ac41-7e3325021277)
 
+Graficamente:
+
+![image](https://github.com/user-attachments/assets/92f34092-964e-4fc5-b4c5-d9bb34a4ddd1)
+
 A coluna está com os dados em perfeito estado
 
 ---
