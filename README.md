@@ -41,7 +41,7 @@ dataset.columns = [
 
 ```
 
-## Explorando conjunto de dados
+## Explorando o conjunto de dados
 
 Funções utilizadas:
 
@@ -88,7 +88,16 @@ Resultado (4):
 
 ![image](https://github.com/user-attachments/assets/c9f0a8f5-47fa-47e1-8160-4947573f5993)
 
-Verificando os dados das colunas categoricas:
+#### Verificando os dados das colunas categoricas
+
+Colunas categóricas existentes:
+
+- Gênero
+- Cidade
+- Linha de produto
+- Filial
+- Método de pagamento
+- Tipo de cliente
 
 ```python
 
@@ -188,7 +197,7 @@ Resultado (16):
 
 ![image](https://github.com/user-attachments/assets/65f590a6-c287-4cc8-9521-7667f983c0d8)
 
-### Conferindo os resultados e realizando as somas:
+#### Conferindo os resultados e realizando as somas:
 ---
 
 | Gênero        | Total |
@@ -243,3 +252,18 @@ Resultado (16):
 | Member          | 501   |
 | Normal          | 499   |
 | **Total**        | 1000   |
+
+---
+
+#### Verificando as colunas númericas:
+
+Colunas númericas existentes:
+
+- Id de venda
+- Preço unitário
+- Imposto de 5%
+- Quantidade
+- Custo de mercadorias vendidas
+- Percentual de margem bruta
+- Renda bruta
+- Avaliação
