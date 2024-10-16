@@ -468,6 +468,14 @@ Graficamente:
 
 A coluna está com o gráfico em perfeito estado
 
-## Criação do Dashboard em PowerBI
+## Dashboard criado em PowerBI - Resultado Final
+
+Optei por traduzir dentro do próprio PowerBI, portanto, agora as linhas também estão traduzidas para o português brasileiro. 
+
+![image](https://github.com/user-attachments/assets/45f55c60-b9d6-43da-9fa4-11c62aa2d422)
+
+Lembrando que, o dashboard é interativo e, ao clicar em qualquer um dos dados, o software mostrará um filtro correspondente aos dados que foram clicados.
+
+
 
 
